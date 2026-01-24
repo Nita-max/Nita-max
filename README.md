@@ -5,7 +5,7 @@ Aspiring Software Developer | Web & Java Enthusiast
 I am a passionate and dedicated learner with a strong interest in Web Development and Java-based applications.
 I enjoy building projects, strengthening my problem-solving skills, and continuously exploring new technologies.
 
-# ____________________________________________________________________________________________________________________ #
+ **____________________________________________________________________________________________________________________**
 
 ## 🛠 Technical Skills ##
 
@@ -24,7 +24,7 @@ Spring | Spring Boot
 Concepts & Databases:
 MySQL | Data Structures
 
-# ______________________________________________________________________________________________________________________________ #
+**______________________________________________________________________________________________________________________________**
 
 
 ## 🌱 What I’m Doing Now ##
@@ -38,7 +38,7 @@ Exploring modern tools and technologies
 ## 🎯 Career Objective ##
 
 To become a skilled software developer and contribute to building scalable, efficient, and user-friendly applications.
-# ______________________________________________________________________________________________________________________________________ #
+**______________________________________________________________________________________________________________________________________**
 
 ## 📫 Connect with me: ## 
 
