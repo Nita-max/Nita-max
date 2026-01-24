@@ -5,7 +5,7 @@ Aspiring Software Developer | Web & Java Enthusiast
 I am a passionate and dedicated learner with a strong interest in Web Development and Java-based applications.
 I enjoy building projects, strengthening my problem-solving skills, and continuously exploring new technologies.
 
-**______________________________________________________________________________________________________________________________________**
+**_______________________________________________________________________________________________________________________________________________**
 
 **🛠 Technical Skills**
 
