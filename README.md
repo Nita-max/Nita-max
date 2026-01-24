@@ -1,4 +1,4 @@
-**👋 Hi, I’m Nita Waghchaure**
+# 👋 Hi, I’m Nita Waghchaure #
 
 Aspiring Software Developer | Web & Java Enthusiast
 
