@@ -1,8 +1,9 @@
-👋 Hi, I’m Nita Waghchaure
+👋 Hi, I’m NITA WAGHCHAURE
 Aspiring Software Developer | Web & Java Enthusiast
 
-I am a passionate and dedicated learner with a strong interest in Web Development and Java-based applications. I enjoy building projects, strengthening my problem-solving skills, and continuously exploring new technologies.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+I am a passionate and dedicated learner with a strong interest in Web Development and Java-based applications.
+I enjoy building projects, strengthening my problem-solving skills, and continuously exploring new technologies.
+
 🛠 Technical Skills
 
 Programming Languages:
@@ -16,7 +17,7 @@ Spring | Spring Boot
 
 Concepts & Databases:
 MySQL | Data Structures
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🌱 What I’m Doing Now
 
 Learning and improving my skills in Java & Web Development
@@ -27,7 +28,8 @@ Exploring modern tools and technologies
 
 🎯 Career Objective
 
-To become a skilled software developer and contribute to building scalable, efficient, and user-friendly applications.
+To become a skilled software developer and contribute to building
+scalable, efficient, and user-friendly applications.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📫 Connect with me:  
 
