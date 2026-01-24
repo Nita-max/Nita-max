@@ -1,4 +1,5 @@
-👋 Hi, I’m NITA WAGHCHAURE
+👋 Hi, I’m Nita Waghchaure
+
 Aspiring Software Developer | Web & Java Enthusiast
 
 I am a passionate and dedicated learner with a strong interest in Web Development and Java-based applications.
@@ -28,8 +29,7 @@ Exploring modern tools and technologies
 
 🎯 Career Objective
 
-To become a skilled software developer and contribute to building
-scalable, efficient, and user-friendly applications.
+To become a skilled software developer and contribute to building scalable, efficient, and user-friendly applications.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📫 Connect with me:  
 
